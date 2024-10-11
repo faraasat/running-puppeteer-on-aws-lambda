@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-lambda",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sparticuz/chromium": "122.0.0",
+    "puppeteer-core": "22.5.0"
+  }
+}
